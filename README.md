@@ -7,7 +7,7 @@
 
 <h3><center>Welcome to my GitHub page.</center></h3>
 
-- 🔭 I'm currently working @ SAO.
+- 🔭 I'm currently working as a Science Software Developer @ SAO.
 - 🌱 I’m currently learning high performance python.
 - 💬 Ask me about anything related to Python, C++, ML, RL, CS, or Physics. (After googling it, of course.)
 - 📫 You can reach my at my personal email, anhydrous99@gmail.com, or on twitter. (Look at the left bar for my twitter account.)
