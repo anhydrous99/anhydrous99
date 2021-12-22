@@ -8,12 +8,12 @@
 <h3><center>Welcome to my GitHub page.</center></h3>
 
 - 🔭 I'm currently working as a Science Software Developer @ SAO.
-- 🌱 I’m currently learning high performance python.
+- 🌱 I’m currently learning hDiscrete and Computational Geometry.
 - 💬 Ask me about anything related to Python, C++, ML, RL, CS, or Physics. (After googling it, of course.)
-- 📫 You can reach my at my personal email, anhydrous99@gmail.com, or on twitter. (Look at the left bar for my twitter account.)
+- 📫 You can reach me at my personal email, anhydrous99@gmail.com, or on twitter. (Look at the left bar for my twitter account.)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  My dog's name is Toro. 🐕
-- 📖 Hobbies other than coding: Reading about history and philosophies, Cycling, Cooking, and play RTS games.
+- 📖 Hobbies other than coding: Reading about history and philosophies 🤔, Cycling 🚲, Cooking 🍳, and play RTS games 🎮.
 
 <p align="center">
   <img src="images/netscape-1995.gif" />
