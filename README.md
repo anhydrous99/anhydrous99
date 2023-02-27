@@ -7,8 +7,8 @@
 
 <h3><center>Welcome to my GitHub page.</center></h3>
 
-- 🔭 I'm currently working as a Science Software Developer @ Center for Astrophysics | Harvard & Smithsonian.
-- 🌱 I’m currently learning Digital Image Processing.
+- 🔭 I'm currently working as a Support Software Engineer [C] @ Amazon.
+- 🌱 I’m currently learning Java Backend Development.
 - 💬 Ask me anything related to Python, C++, Machine Learning, Rinforcement Learning, Computer Science, or Physics. (After googling it, of course.)
 - 📫 You can reach me at my personal email, anhydrous99@gmail.com, or on twitter. (Look for the left bar for my twitter account.)
 - ⚡ Fun fact:  My dog's name is Toro. 🐕
